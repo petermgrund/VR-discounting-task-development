@@ -45,3 +45,27 @@ phase, F (1 to 5) for the first exploration phase and S (1 to 5) for the second
 exploration phase. After the second exploration phase participants were asked to
 proceed to a terminal within the VR-environment on which the behavioral tasks
 were presented.
+
+## Behavioral Tasks
+
+Participants performed the same two behavioral tasks with slightly varied
+rewards and choices in each of the three sessions: a temporal discounting task
+and a 2-step sequential decision-making task. Results from the 2-step task will
+be reported separately. In the temporal discounting task participants had to
+repeatedly choose between an immediately available (smaller-but-sooner, SS)
+monetary reward of 20 Euros and larger-but-later (LL) temporally delayed
+monetary rewards. The LL options were multiples of the SS option (range 1.025
+to 3.85) combined with different temporal delays (range 1 to 122 days). We
+constructed three sets of six delays and 16 LL options. Each set had the same
+mean delay and the same mean LL option. Combining each delay with every LL
+option within each set resulted in three sets of 96 trials. The order of
+presentation of the trial sets was counter balanced across participants and
+sessions. All temporal discounting decisions were hypothetical. In the
+VR-version of the task two yellow squares were presented to the participants.
+One depicted the smaller offer of 20 Euros now, while the other depicted the
+delayed larger offer. For the lab based testing session were presented in the
+same way except that the color scheme was white writing on a black background.
+Offers were randomly assigned to the left/right side of the display and
+presented until a decision was made. The next trial started 0.5 to 1 s after
+the decision. Participants indicated their choice by aiming the 
+VR-controller at the preferred option and pulling the trigger.
