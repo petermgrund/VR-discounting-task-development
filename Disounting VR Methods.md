@@ -30,3 +30,18 @@ non-repetitive behaviors like gambling and ordering food for the
 gambling-related and neutral environments, respectively. Both experimental
 areas (café and casino) had entrances located at the same position within the
 starting area of the VR-environments, which were marked by corresponding signs.
+
+## Experimental Procedure
+
+During the three sessions participants either explored one of two different VR
+environments (VR-sessions) followed by the completion of two behavioral tasks.
+Within the VR-environments participants first explored the starting area for
+5 min (first exploration phase). After these five minutes participants were
+asked to enter the experimental area of the environment (either the café or the
+casino). Participants were instructed to explore the interior experimental area
+for five minutes (second exploration phase). Each of the three phases was later
+binned into five one-minute intervals and labeled as B (1 to 5) for the baseline
+phase, F (1 to 5) for the first exploration phase and S (1 to 5) for the second
+exploration phase. After the second exploration phase participants were asked to
+proceed to a terminal within the VR-environment on which the behavioral tasks
+were presented.
