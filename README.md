@@ -7,3 +7,9 @@ Temporal discounting refers to the tendency to reduce the subjective value of fu
 
 ## Methods
 Responses to reward stimuli will be altered by the time taken to reach the reward.
+
+## Example
+
+[<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0010027719301143-gr2.jpg">](https://www.sciencedirect.com/science/article/pii/S0010027719301143/)
+
+From **[Temporal and spatial discounting are distinct in humans](https://www.sciencedirect.com/science/article/pii/S0010027719301143)**, _Eva Robinson, Kelly Michaelis, James C Thompson, Martin Wiener_
