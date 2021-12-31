@@ -1527,7 +1527,7 @@ GameObject:
   - component: {fileID: 1266032585}
   - component: {fileID: 1266032584}
   m_Layer: 0
-  m_Name: BasketBall
+  m_Name: Orange
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1598,7 +1598,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 453f3cd81e10c3c44a7437e7ccdc9a70, type: 2}
+  - {fileID: 2100000, guid: 25f02fd873c82e844bdde21e7cd65f6e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1636,7 +1636,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1266032583}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.353, y: 1.13, z: -0.437}
+  m_LocalPosition: {x: -0.122, y: 1.13, z: -0.437}
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_Children: []
   m_Father: {fileID: 0}
