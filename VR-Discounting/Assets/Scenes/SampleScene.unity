@@ -232,7 +232,7 @@ GameObject:
   - component: {fileID: 66921491}
   - component: {fileID: 66921490}
   m_Layer: 0
-  m_Name: Sphere
+  m_Name: Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
