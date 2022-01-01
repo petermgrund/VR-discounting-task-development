@@ -20,3 +20,10 @@ Develop VR discounting tasks in Unity. Some ideas thought of are:
 - Having object farther away that users have to physically walk too
 - Having the user climb to reach objects
 - Working with cash assets
+
+In order to achieve this new assets need to be imported.
+
+Assets to still identify are:
+
+- Cash
+- Office Equipment
