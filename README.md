@@ -27,3 +27,10 @@ Assets to still identify are:
 
 - Cash
 - Office Equipment
+
+New features to explore:
+
+- Climbing
+- Border detection
+- Procedural mazes
+- Multiplayer
