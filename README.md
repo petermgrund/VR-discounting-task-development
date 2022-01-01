@@ -15,4 +15,8 @@ Responses to reward stimuli will be altered by the time taken to reach the rewar
 From **[Temporal and spatial discounting are distinct in humans](https://www.sciencedirect.com/science/article/pii/S0010027719301143)**, _Eva Robinson, Kelly Michaelis, James C Thompson, Martin Wiener_
 
 ## Next steps
-Add here
+
+Develop VR discounting tasks in Unity. Some ideas thought of are:
+- Having object farther away that users have to physically walk too
+- Having the user climb to reach objects
+- Working with cash assets
