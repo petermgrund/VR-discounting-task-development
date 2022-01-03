@@ -5,7 +5,7 @@ using UnityEngine;
 public class VariableTable : MonoBehaviour
 {
 
-    public Vector3[] targets = new[] { new Vector3(1, 1, 1) };
+    public Vector3 targets = new Vector3(1, 1, 1);
     int x = 0;
 
     // Start is called before the first frame update
@@ -20,14 +20,12 @@ public class VariableTable : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Alpha0))
         {
             x = 0;
-            Debug.Log("Working?");
         }
         if (Input.GetKeyDown(KeyCode.Alpha1)) 
         {
-            x = 1;
-            Debug.Log("Hi");
+            x += 1;
         }
-        targets = new[] { new Vector3(x, x, x) };
-        //Debug.Log(x);
+        targets =  new Vector3(x, x, x);
+        transform.position = targets;
     } 
 }
