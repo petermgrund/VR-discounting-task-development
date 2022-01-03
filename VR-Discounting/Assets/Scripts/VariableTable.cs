@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class VariableTable : MonoBehaviour
 {
+
+    public Vector3[] targets = new[] { new Vector3(1, 1, 1) };
+
     // Start is called before the first frame update
     void Start()
     {
@@ -13,7 +16,10 @@ public class VariableTable : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.position += Vector3.forward * Time.deltaTime;
-
+        targets = new[] { new Vector3(2, 2, 2) };
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            print("space key was pressed");
+        }
     }
 }
