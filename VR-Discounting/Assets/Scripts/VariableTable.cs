@@ -17,9 +17,13 @@ public class VariableTable : MonoBehaviour
     void Update()
     {
         targets = new[] { new Vector3(2, 2, 2) };
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetKeyDown(KeyCode.Alpha0))
         {
-            print("space key was pressed");
+            print("Zero was pressed!");
+        }
+        if (Input.GetKeyDown(KeyCode.Alpha1)) 
+        {
+            print("One was pressed!");
         }
     }
 }
