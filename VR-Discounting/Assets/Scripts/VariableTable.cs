@@ -24,6 +24,6 @@ public class VariableTable : MonoBehaviour
         {
             x += 1;
         }
-        transform.position = new Vector3(x, x, x);
+        transform.position = new Vector3(x, 0, 0);
     } 
 }
