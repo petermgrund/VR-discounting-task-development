@@ -31,6 +31,14 @@ public class VariableTable : MonoBehaviour
             x = x + ((max-min)/2);
         }
         transform.position = new Vector3(x, 0, 0);
+        if (min + 1 == max)
+        {
+            //print indifference point
+            Debug.Log(min);
+            Debug.Break();
+            Application.Quit();
+        }
+
     } 
 }
 
