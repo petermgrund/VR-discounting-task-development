@@ -6,6 +6,8 @@ public class VariableTable : MonoBehaviour
 {
 
     int x = 1;
+    int max = 100;
+    int min = 0;
 
     // Start is called before the first frame update
     void Start()
@@ -18,12 +20,18 @@ public class VariableTable : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Alpha0))
         {
-            x = 0;
+            //set max
+            max = x;
+            x = x - ((max - min) / 2);
         }
         if (Input.GetKeyDown(KeyCode.Alpha1)) 
         {
-            x = x*2;
+            //set min
+            min = x;
+            x = x + ((max-min)/2);
         }
         transform.position = new Vector3(x, 0, 0);
     } 
 }
+
+//working towards min=max
