@@ -6,9 +6,9 @@ public class VariableTable : MonoBehaviour
 {
 
     // Define initial x, max and min
-    int x = 1;
-    int max = 100;
-    int min = 0;
+    public int x = 1;
+    public int max = 100;
+    public int min = 0;
 
     // Start is called before the first frame update
     void Start()
