@@ -34,3 +34,9 @@ New features to explore:
 - Border detection
 - Procedural mazes
 - Multiplayer
+
+Define broad research objectives:
+
+- Dollar per foot traveled
+- Discounting by distance
+- Discounting for physical effort
