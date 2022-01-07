@@ -1,0 +1,18 @@
+# Column names
+- Subject.ID
+- Trial.Number
+- Adjusted.Max.Bottom
+- Adjusted.Max.Top
+- Adjusted.Min.Bottom
+- Adjusted.Min.Top
+- Choice (Standard vs. Variable)
+- Choice.Slide.Reaction.Time 
+- Time.To.Reach.Reward
+- Condition.Number
+- Difference
+- MaxBottom.[LogLevel5]
+- MaxTop.[LogLevel5]
+- MinBottom.[LogLevel5]
+- MinTop.[LogLevel5]
+- Value.[LogLevel5]
+- Variable.Amount
