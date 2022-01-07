@@ -1,13 +1,17 @@
 # Column names
-- Subject.ID
+- Subject.ID 
+  - A 4 digit number that we are able to enter prior to the task beginning (starting at X001)
 - Trial.Number
+  - Each "decision scenario" will be called a trial and will be given its own row. The Trial.Number will start at 1 and increase by 1 until an indifference point is found; we may also want an upper limit in case a participant is inconsistant
 - Adjusted.Max.Bottom
 - Adjusted.Max.Top
 - Adjusted.Min.Bottom
 - Adjusted.Min.Top
 - Choice (Standard vs. Variable)
 - Choice.Slide.Reaction.Time 
+  - How long does it take the participant (in milliseconds) to select the immediate small reward? (on given scenarios)
 - Time.To.Reach.Reward
+  - How long does it take the participant (in milliseconds) to reach the larger reward? (on given scenarios)
 - Condition.Number
 - Difference
 - MaxBottom.[LogLevel5]
@@ -16,3 +20,4 @@
 - MinTop.[LogLevel5]
 - Value.[LogLevel5]
 - Variable.Amount
+  - What is the length (in inches) of the larger reward?
